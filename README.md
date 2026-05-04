@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=VQGCKyvzIM4
 ---
 
 ## Image
-https://upload.wikimedia.org/wikipedia/en/6/6a/Demon_Slayer_Kimetsu_no_Yaiba_volume_1_cover.jpg
+https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/b9/Infinity_Castle_Movie_Key_Visual_%28English%29.png/revision/latest/scale-to-width/360?cb=20250719210949
