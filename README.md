@@ -1,27 +1,36 @@
-# app-dev
-My first repository
+# App Development Repository
 
-## My Favorite Anime Series
-🎴 **Demon Slayer: Kimetsu no Yaiba**
+## About This Project
+This repository is created to practice GitHub collaboration and Markdown formatting.
 
-**Demon Slayer** is an anime series that follows the journey of a young swordsman who joins the Demon Slayer Corps to protect humans from demons.
+---
+
+## Favorite Anime Series
+🔥 **Demon Slayer: Kimetsu no Yaiba**
+
+Demon Slayer follows Tanjiro Kamado as he joins the Demon Slayer Corps to protect people from demons.
 
 ---
 
 ## Why I Like Demon Slayer
-- Amazing animation and fight scenes  
-- Strong story and character development  
-- Emotional moments and meaningful messages  
+- Amazing animation
+- Emotional story
+- Unique characters
 
 ---
 
 ## Favorite Characters
-1. Tanjiro Kamado  
-2. Nezuko Kamado  
-3. Zenitsu Agatsuma  
-4. Inosuke Hashibira  
+1. Tanjiro Kamado
+2. Nezuko Kamado
+3. Zenitsu Agatsuma
+4. Inosuke Hashibira
 
 ---
 
-## Favorite Quote
-> No matter how many people walk away, never abandon someone who needs your help.
+## Trailer Link
+https://www.youtube.com/watch?v=VQGCKyvzIM4
+
+---
+
+## Image
+https://upload.wikimedia.org/wikipedia/en/6/6a/Demon_Slayer_Kimetsu_no_Yaiba_volume_1_cover.jpg
